@@ -8,13 +8,13 @@ This repository includes two independent implementations so you can choose betwe
 
 ## Google GenAI (Gemini)
 
-Script: bot_GenAI.py.py
+Script: GenAI/bot_GenAI.py
 
 Uses the google-generativeai client to generate responses.
 
 ## OpenAI
 
-Script: bot_OpenAI.py
+Script: OpenAI/bot_OpenAI.py
 
 Uses the openai client for response generation.
 
